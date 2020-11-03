@@ -1,21 +1,6 @@
-# design_fourgrammer
-Fourgrammer Pages
+# Kenalan dulu dong.
 
-- Home Page
-- Class Page
-- Study room for maple schedule below
-  - Study room for fundamental
-  - Study room for case study
-    - Study room for videos
-- Blog Page
-- Admin page
-  - Manage CMS 
-  - Manage Class Category
-  - Manage Videos
-  - Manage User
-  - Manage Profile
-  - Manage Dashboard
-- User Page
-  - Profile
-    - Badge image
-    - Level
+Halo guys, gw yoga. Saat ini umur gw 16 tahun. Gw seorang Junior Web Developer. Gw tinggal di Bekasi. Di blog ini gw akan dokumentasi apa aja yang telah gw pelajarin. Semoga bermanfaat ya! 😀
+
+Portofolio gw di [https://yogastama.github.io](https://yogastama.github.io)
+
