@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Kenalan dulu dong.](README.md)
-* [FourGrammer](https://yogastama.gitbook.io/fourgrammer)
 
 ## Bahasa Inggirs
 
